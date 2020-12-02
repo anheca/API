@@ -1,3 +1,4 @@
 src/backend/database.js
 src/backend/public/texto.txt
 node_modules
+src/backend/public/uploads
