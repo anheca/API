@@ -29,6 +29,8 @@ app.use(multer({ storage }).single('image'))
 
 // ESTE ES UN NUEVO COMENTARIO ....
 
+// JAJAJA ESTE ES EL ULTIMO
+
 
 // express.urlencode se configura para indicarle a express que las peticiones o informacion
 // que llega desde un cliente, nos va a llegar en un formato json.
